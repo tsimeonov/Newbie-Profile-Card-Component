@@ -1,6 +1,8 @@
 # Frontend Mentor - Profile card component
 
-Live url 
+Live Site url
+
+https://tsimeonov.github.io/Newbie-Profile-Card-Component/
 
 ## Welcome! 👋
 
